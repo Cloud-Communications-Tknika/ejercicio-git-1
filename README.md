@@ -18,6 +18,8 @@ Ejercicio:
     
 5- Mediante la extensión Git History observa los commits realizados
 
+    a- Saca una captura del gitignore a Carpeta1 y confirma los cambios.
+
 
 
 
