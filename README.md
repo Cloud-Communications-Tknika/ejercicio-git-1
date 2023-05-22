@@ -4,7 +4,7 @@ Ejercicio:
 
 1- Modifica el Fichero1.txt para que las líneas indiquen su número de línea correcto.
 
-    a- Realiza un commit de este apartado indicandon en el mensaje los cambios.
+    a- Realiza un commit de este apartado indicando en el mensaje los cambios.
 
 2- Crea un fichero dentro de Carpeta1, escribe algo y realiza un commit de esto.
 
